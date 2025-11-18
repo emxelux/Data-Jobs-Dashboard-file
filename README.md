@@ -24,11 +24,11 @@ Implemented **Slicers and Filters** (e.g., Job Title, Location, Salary Range) to
 
 # Dashboard Overview
 ### Page1 High-Level Market View
-![Dashboard Page1](/images/Dashboard_homepage.png)
+![Dashboard Page1](/Images/Dashboard_homepage.png)
 This is your mission control for data job market. It showcases key KPIs like total job count, median Salaries, and top job titles to give you a quick Understanding of what's happening in the job market at a glance
 
 ### Page2 Job Title Drill
-![Dashboard Page1](/images/Drill_through_Page.png)
+![Dashboard Page1](/Images/Drill_through_Page.png)
 
 This is the deep-dive page. Form the main dashboard, you can drill through to this view to get specific detailsfor a single job title. inclusing salary ranges, work-from-home stats, top hiring platforms, and a global map of jobs location
 
